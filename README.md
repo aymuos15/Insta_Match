@@ -44,3 +44,5 @@ For a detailed analysis and understanding of the matching schemes and losses wor
 
     - Universal Loss Reweighting | [Shirokikh et al.](https://arxiv.org/abs/2007.10033)
     - Instance Loss Functions (built on top of blob loss) | [Rachmadi et al.](https://www.sciencedirect.com/science/article/pii/S0010482524004980)
+
+- [ ] Need to make everything in 2D as well.
